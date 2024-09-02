@@ -10,8 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sushanthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushanthakur" height="30" width="40" /></a><a href="https://instagram.com/sushant_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant_404" height="30" width="40" /></a>
 </p>
-<br><br>
-
+<br>
 <h3 align="left">Languages and Tools:
 </h3>
 <table>
