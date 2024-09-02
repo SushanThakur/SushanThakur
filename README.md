@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sushant.</h1>
 <h3 align="center">A hobbyist programmer and 3D Modeler.</h3>
 <br><br>
-- 📫 How to reach me **mail@sushant.uk**
 
-- 📄 Know about my experiences [sushant.uk](sushant.uk)
+- 📫 How to reach me **mail@sushant.uk**
+- 📄 Know about my experiences [https://sushant.uk](sushant.uk)
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
