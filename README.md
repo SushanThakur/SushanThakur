@@ -3,7 +3,7 @@
 <br><br>
 
 - 📫 How to reach me **mail@sushant.uk**
-- 📄 Know about my experiences [https://sushant.uk](sushant.uk)
+- 📄 Know about my experiences:  [https://sushant.uk](https://sushant.uk)
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
