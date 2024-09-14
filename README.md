@@ -43,6 +43,7 @@
       <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></td>
    </tr>
 </table>
-
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="sushanthakur" /> </p>
 <br><br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthakur&" alt="sushanthakur" /></p>
