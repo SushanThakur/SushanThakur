@@ -2,8 +2,8 @@
 <h3 align="center">A hobbyist programmer and 3D Modeler.</h3>
 <br /><br />
 
-- 📫 How to reach me **mail@sushant.uk** - 📄 Know about my experiences:
-[**https://sushant.uk**](https://sushant.uk)
+- 📫 How to reach me [**mail@sushant.uk**](mailto:mail@sushant.uk)
+- 📄 Know about my experiences: [**https://sushant.uk**](https://sushant.uk)
 <br /><br />
 
 <h3 align="left">Connect with me:</h3>
