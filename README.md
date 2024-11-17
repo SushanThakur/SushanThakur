@@ -272,4 +272,5 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthakur&"
     alt="sushanthakur" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanthakur&show_icons=true&locale=en&layout=compact" alt="sushanthakur" />
 </p>
