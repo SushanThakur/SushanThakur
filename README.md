@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant.</h1>
-<h3 align="center">Hobbyist Programmer • 3D Modeler</h3>
+<h4 align="center">
+  Hobbyist programmer and 3D modeler. I build cool things, then spend hours Googling why they don’t work, and occasionally win fights with my compiler (sometimes, the compiler wins).</h4>
 
 <p align="center">
   📫 <a href="mailto:mail@sushant.uk"><b>mail@sushant.uk</b></a> • 
