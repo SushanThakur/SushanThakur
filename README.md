@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/sushanthakur" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-sushanthakur-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/sushanthakur" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/sushant_404" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-sushant_404-e4405f?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
 </p>
