@@ -45,8 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthakur&theme=dracula&hide_border=true" alt="GitHub Streak" height="150" style="margin: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushanthakur&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" style="margin: 10px;" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushanthakur&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150" style="margin: 10px;" />
 </p>
 
