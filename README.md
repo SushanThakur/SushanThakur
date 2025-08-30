@@ -68,7 +68,7 @@
 ## 🌟 Fun Facts
 
 - 🎮 Avid gamer
-- 🤖 Built a 5DOF robotic arm named that stole the show at two tech exhibitions
+- 🤖 Built a 5DOF robotic arm that stole the show at two tech exhibitions
 - 💾 Started coding in C in 7th grade and outshined college students in a workshop by 9th grade
 - 🎨 Love blending code with creativity, whether it’s designing PCBs or crafting sleek React web apps.
 
