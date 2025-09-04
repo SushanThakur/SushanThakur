@@ -36,7 +36,7 @@
 - ⚡️ Designing custom PCBs with Proteus for robotics and electronics projects, optimizing circuit performance.
 - 📝 Writing efficient C++ code for robotics and performance-critical applications, tackling complex challenges.
 - 🔍 Learning new frameworks and tools to level up my skills
-- 🐛 Debugging... always debugging
+- 🐛 Debugging... always debugging...
 
 ---
 
