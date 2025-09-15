@@ -29,17 +29,6 @@
 
 ---
 
-## 🚀 What I’m Working On
-
-- 🤖 Enhancing my 5DOF robotic arm with advanced control algorithms and sensor integration for smarter automation.
-- 💻 Developing dynamic web applications using React JS to create responsive, user-friendly interfaces.
-- ⚡️ Designing custom PCBs with Proteus for robotics and electronics projects, optimizing circuit performance.
-- 📝 Writing efficient C++ code for robotics and performance-critical applications, tackling complex challenges.
-- 🔍 Learning new frameworks and tools to level up my skills
-- 🐛 Debugging... always debugging...
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,13 +51,6 @@
 </p>
 
 ---
-
-## 🌟 Fun Facts
-
-- 🎮 Avid gamer
-- 🤖 Built a 5DOF robotic arm that stole the show at two tech exhibitions
-- 💾 Started coding in C in 7th grade and outshined college students in a workshop by 9th grade
-- 🎨 Love blending code with creativity, whether it’s designing PCBs or crafting sleek React web apps.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushanthakur&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
